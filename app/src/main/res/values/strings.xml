@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">BMI CALCULATOR</string>
+    <string name="welcome">WELCOME TO BMI CALCULATOR</string>
+    <string name="name">Enter Your Name</string>
+    <string name="weight">Enter Your Weight in kgs</string>
+    <string name="height">Enter Your Height</string>
+    <string name="feet">Feet</string>
+    <string name="meters">Meters</string>
+    <string name="submit">SUBMIT</string>
+    <string name="underWeightComments">You poor thing! You must be eating very less or suffering from some growth problems. Please check the link given below to know more about it! I hope it would help you! Good Luck!</string>
+    <string name="linkUnderWeight">
+        <a href = "https://www.medicalnewstoday.com/articles/321612.php">CLICK ME TO KNOW MORE</a>
+    </string>
+    <string name="normalWeightComments">
+        Perfect!You seem to be in a proper shape and size! As the saying goes, "HEALTH IS WEALTH"! But it is also necessary to maintain such a valuable asset you have in possession. So, please visit the link below for few tips and advices.
+    </string>
+    <string name="linkNormalWeight">
+        <a href="https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/healthy+living/healthy+weight/tips+for+maintaining+healthy+weight">CLICK ME TO KNOW MORE</a>
+    </string>
+    <string name="overWeightComments">
+        Stepping over the peddle a bit more, I guess! In terms of food of course! Eating isn\'t bad, but there should be a some kind of limits! Don\'t you worry! With proper exercise and diet you will be in good shape in no time! Given below is a link which might help! Please refer to it! Good Luck!
+    </string>
+    <string name="linkOverWeight">
+        <a href="https://www.niddk.nih.gov/health-information/weight-management/health-risks-overweight">CLICK ME TO KNOW MORE</a>
+    </string>
+    <string name="checkAnother">CHECK ANOTHER</string>
+    <string name="obesityClass1Comments">
+        At this stage you already have crossed some kind of border line. It\'s high time you implement some strong steps in order to take control of the situation. Please refer to the link below in order to know more about this stage of obesity and the necessary steps to be taken.
+    </string>
+    <string name="linktoObesityClass1">
+        <a href = "https://www.youtube.com/watch?v=1oKqd2CO1tA">CLICK ME TO KNOW MORE</a>
+    </string>
+    <string name="obesityClass2Comments">
+        That is no longer a tummy! It\'s a drum! On a serious note, the harmful effects of obesity will be in plain sights now. Get a grip! Follow the link given below to know more.
+    </string>
+    <string name="linkObesityClass2">
+        <a href = "https://www.medicalnewstoday.com/articles/323691.php">CLICK ME TO KNOW MORE</a>
+    </string>
+    <string name="extremeObesityComments">
+        I know, you may love God a lot, but why are you so impatient and eager to go to him? The state you are in now is extreme. Just give up whatever you are doing and focus on your health, if you value your life. If you don\'t then, RIP in advance. Death by food; the very necessity of life, will be terribly ironic.
+    </string>
+    <string name="linkExtremeObesity">
+        <a href = "https://www.sages.org/publications/patient-information/patient-information-for-laparoscopic-surgery-for-severe-morbid-obesity-from-sages/">CLICK ME TO KNOW MORE</a>
+    </string>
+
+
+</resources>
